@@ -1,0 +1,7 @@
+# requirements.txt
+numpy>=1.22.0
+scipy>=1.9.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+librosa>=0.10.1
+aubio>=0.4.9

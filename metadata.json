@@ -1,0 +1,10 @@
+{
+  "name": "VocalKey & AutoTune Studio",
+  "description": "Detector de tonalidad musical en tiempo real y afinador autotune para cantantes con monitorización de voz y grabación.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
